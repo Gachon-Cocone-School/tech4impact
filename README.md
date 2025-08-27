@@ -1,3 +1,5 @@
+<img width="964" height="392" alt="Image" src="https://github.com/user-attachments/assets/10a427e7-069c-4af3-bb04-d8c95e84902a" />
+
 # Tech for impact - 2025학년도 2학기, Gachon Cocone School
 
 ## 강사 정보
