@@ -75,20 +75,21 @@ AI, 자동화, 데이터 분석 등 최신 기술을 활용하여, 실제 사회
 | 2 | 2025.09.04 | ***오리엔테이션[[구글 슬라이드](https://docs.google.com/presentation/d/1uOaMmgZq-6XcoI7hFq-slKbNjGyQQN30i-P6-AJthZk/edit?slide=id.g33cdb80f340_0_0#slide=id.g33cdb80f340_0_0)] & 공통 강연 \- 문제 정의 및 가설 검증(by 이민섭 교수)[[구글슬라이드](https://docs.google.com/presentation/d/1rGH16LPFDOUUpTvYduo-GnDsgOD7hYedLqNt2yVw198/edit?usp=sharing)]** |
 | 3 | 2025.09.11 | ***팀빌딩[[구글 슬라이드](https://docs.google.com/presentation/d/1Awpvb9eiVS3Fcy5kOaWzlZuKM6LEK6OTuVSP294pOH0/edit?slide=id.g33cdb80f340_0_0#slide=id.g33cdb80f340_0_0)] & 공통 강연 \- 사회적 책임과 가치(by 홍원준 교수)[[PDF](https://drive.google.com/file/d/1hZmAS5Kp3UVrmOFbGCCu9Zg2Szug1BxR/view?usp=drive_link)]** |
 | 4 | 2025.09.18 | 필드 트립 |
-| 5 | 2025.09.30(화) | 공통 강연 \- 바이브 코딩 입문 \- 멘토 특강 ( 온라인 ) PM 7:00 \~ |
+| 5 | 2025.09.30(화) | 공통 강연 \- 바이브 코딩 입문 \- 멘토 특강 ( 온라인 ) PM 7:00 \~ 8:30 |
 | 6 | 2025.10.02 | ***팀별 주제 발표** |
 | 7 | 2025.10.16 | 팀 프로젝트 지도 \#1 |
 | 8 | 2025.10.23 | 팀 프로젝트 지도 \#2 |
 | 9 | 2025.10.30 | 팀 프로젝트 지도 \#3 |
 | 10 | 2025.11.06 | ***중간 성과 발표회** |
-| 11 | 2025.11.13 | 커리어(취업) 특강 ( 온라인 ) PM 7:00 \~ |
-| 12 | 2025.11.20 | 팀 프로젝트 지도 \#4 |
+| 11 | 2025.11.13 | 팀 프로젝트 지도 \#4 |
+| 12 | 2025.11.26 | 커리어(취업) 특강 ( 온라인 ) PM 7:00 \~ 8:30 |
 | 13 | 2025.11.27 | 팀 프로젝트 지도 \#5 |
 | 14 | 2025.12.04 | 팀 프로젝트 지도 \#6 |
 | 15 | 2025.12.11 | ***최종 성과 발표회** |
 
 ## 참고 자료
 - [테크포임팩트 캠퍼스 가이드(9-10월)](https://kakaoimpact.notion.site/9-10-2346b834ddda809bafc9c0fd0049bb4b)
+- [테크포임팩트 캠퍼스 가이드(10-11월)](https://kakaoimpact.notion.site/10-11-2636b834ddda80518c05cd9c8cc19211)
 
 ## 성적 산출
 
