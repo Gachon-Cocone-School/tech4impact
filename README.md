@@ -90,6 +90,7 @@ AI, 자동화, 데이터 분석 등 최신 기술을 활용하여, 실제 사회
 ## 참고 자료
 - [테크포임팩트 캠퍼스 가이드(9-10월)](https://kakaoimpact.notion.site/9-10-2346b834ddda809bafc9c0fd0049bb4b)
 - [테크포임팩트 캠퍼스 가이드(10-11월)](https://kakaoimpact.notion.site/10-11-2636b834ddda80518c05cd9c8cc19211)
+- [테크포임팩트 캠퍼스 가이드(학기마무리)](https://kakaoimpact.notion.site/2c46b834ddda8086bc78f92b0becd183)
 
 ## 성적 산출
 
