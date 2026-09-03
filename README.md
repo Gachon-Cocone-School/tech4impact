@@ -55,9 +55,9 @@
 |  1  | 2026.08.29(토) | 개강식(온라인) - 13:00~16:00     |           | [발표자료](https://docs.google.com/presentation/d/1qfHkoqNdMBu0ysEjWFE-k98MSkTDerBxlwFjRJbIQGI/edit?usp=sharing) [녹화영상](https://youtube.com/playlist?list=PLSsRNm1rwipM&si=DrspTa1Pk6_yqr5v)   |
 |  2  |   2026.09.03  | ***오리엔테이션***               |           | [구글슬라이드](https://docs.google.com/presentation/d/10C7ZoKarLPfwBRJfnsNErx9h4cHKdrqdI0N7rF4Vw3U/edit?slide=id.g33cdb80f340_0_51#slide=id.g33cdb80f340_0_51)  |
 |     | 2026.09.08(화) | 멘토 특강(온라인) - 문제 정의         |           |  |
-|  3  |   2026.09.10  | ***팀빌딩***                  | **작성·제출** |  |
+|  3  |   2026.09.10  | ***팀빌딩***                  |  |  |
 |  4  |   2026.09.17  | ***필드 트립 & 팀 프로젝트 지도 #1*** | **작성·제출** |  |
-|  5  |   2026.09.24  | ***필드 트립 & 팀 프로젝트 지도 #2*** |           |  |
+|  5  |   2026.09.24  | ***필드 트립 & 팀 프로젝트 지도 #2*** | **작성·제출** |  |
 |  6  |   2026.10.01  | ***팀별 주제 발표***             |           |  |
 |  7  | 2026.10.06(화) | 멘토 특강(온라인) - UI/UX         | **작성·제출** |  |
 |  8  |   2026.10.15  | 팀 프로젝트 지도 #3               | **작성·제출** |  |
