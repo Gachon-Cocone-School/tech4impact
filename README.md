@@ -40,8 +40,7 @@
 - [강의 계획서](https://docs.google.com/document/d/1UvdOpz2Oxaro3dPOuaHZi1wkuxH8z4tVaMTCm-j3Kqk/edit?tab=t.0)
 - [테크포임팩트 캠퍼스 공홈](https://techforimpact.io/campus/info)
 - [2026 2학기 참여 사회혁신가 리스트](https://kakao-impact-foundation.github.io/campus_2026_spring/2026-fall/)
-- [개강워크숍 노션 페이지](https://kakaoimpact.notion.site/26-2-3bb6b834ddda80febd28fa177a1fb721)
-- [개강워크숍 후속 안내 노션 페이지](https://kakaoimpact.notion.site/3cd6b834ddda802295f3fce0bd4f2f39)
+- [26-2학기 테크포임팩트 캠퍼스 (학생용 노션페이지)](https://kakaoimpact.notion.site/26-2-3ca6b834ddda800fa50ec0450818487c)
 
 ### 2025 2학기 최종 프로젝트 성과 자료
 - [25-2학기 돕는 기술 프로젝트](https://kakao-impact-foundation.github.io/campus_2026_spring/semesters/2025-2/)
