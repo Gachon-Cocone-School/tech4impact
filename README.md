@@ -6,6 +6,7 @@
 
 * 김남주(전임교수, 가천대학교 스타트업칼리지, [namjookim@gachon.ac.kr](mailto:namjookim@gachon.ac.kr), N03호)
 * 김지나(초빙교수, 가천대학교 스타트업칼리지, [kjina17@gachon.ac.kr](mailto:kjina17@gachon.ac.kr), S06호)
+* 조영현(수업조교, 소프트웨어(인공지능), [cyh9348@gachon.ac.kr](cyh9348@gachon.ac.kr))
 
 ## 강의 정보
 
